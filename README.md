@@ -1,15 +1,22 @@
 # 💫 About Me:
-Hi there! I'm **Suraj Chaudhary**, a B.Tech Computer Science graduate passionate about building scalable full-stack applications and solving real-world problems through code.
+- 👋 Hi, I'm Suraj Chaudhary — a passionate Full-Stack Developer skilled in MERN, Java, and modern web technologies.
 
-- 🔭 Currently working on: **Full-Stack Projects (MERN & Java)**
-- 🌱 Learning: **Advanced DSA** & **Backend Design Patterns**
-- 👯 Open to Collaborations: **Open Source**, **Frontend Projects**, **DSA Practice (Java)**
-- 🤝 Looking for: **Opportunities in React.js & Java-based Development**
-- 💬 Ask me about: **Java, DSA, React, Node.js, MongoDB, SQL, Git**
+🚀 I enjoy building scalable, user-friendly products. My experience includes developing real-time applications, designing efficient backend systems, and crafting responsive UIs using React and Tailwind CSS.
+
+💼 I’ve worked on impactful projects like:
+- ReferrLink – Job Referral Platform (MERN)
+- AI-Powered Code Reviewer (MERN + Gemini API)
+- GreenNest – Plant Selling Platform (React)
+- BinaryV – Trading Platform
+- Task Manager App (MERN)
+
+⚡ Interests: Full-stack development, Frontend Development, API engineering, and building scalable products.
 
 ---
 
 ## 🌐 Let's Connect:
+📫 Reach me: surajchaudhary6613@gmail.com  
+🌐 Portfolio: https://surajch6613.vercel.app/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Surajch6613/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surajch6613)
 
@@ -41,26 +48,9 @@ Hi there! I'm **Suraj Chaudhary**, a B.Tech Computer Science graduate passionate
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Surajch6613&theme=tokyonight&hide_border=false&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Surajch6613&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajch6613&theme=tokyonight&hide_border=false&layout=compact)
-
----
 
 ### ✍️ Dev Quote
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SurajCh6613)
 
-### 🚀 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Surajch6613&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-### 😂 Random Dev Meme
-<img src="https://randommeme-five.vercel.app/" width="400" />
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Surajch6613&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
