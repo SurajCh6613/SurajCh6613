@@ -9,13 +9,19 @@
 - GreenNest – Plant Selling Platform (React)
 - BinaryV – Trading Platform
 - Task Manager App (MERN)
+- 
+Interests: Full-stack development, Frontend Development, API engineering, and building scalable products.
 
- --Interests: Full-stack development, Frontend Development, API engineering, and building scalable products.
+ 
 ---
+
+
 ## 🌐 Let's Connect:
 📫 Reach me: surajchaudhary6613@gmail.com  
 🌐 Portfolio: https://surajch6613.vercel.app/
 🌐 LinkedIn: https://www.linkedin.com/in/surajch6613/
+
+
 ---
 
 # 💻 Tech Stack:
