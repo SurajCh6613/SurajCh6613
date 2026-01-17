@@ -1,5 +1,5 @@
 ## 💫 About Me:
-- 👋 Hi, I'm Suraj Chaudhary — a passionate Full-Stack Developer skilled in MERN, Java, and modern web technologies.
+👋 Hi, I'm Suraj Chaudhary — a passionate Full-Stack Developer skilled in MERN, Java, and modern web technologies.
 
 🚀 I enjoy building scalable, user-friendly products. My experience includes developing real-time applications, designing efficient backend systems, and crafting responsive UIs using React and Tailwind CSS.
 
@@ -9,12 +9,10 @@
 - GreenNest – Plant Selling Platform (React)
 - BinaryV – Trading Platform
 - Task Manager App (MERN)
-- 
 Interests: Full-stack development, Frontend Development, API engineering, and building scalable products.
 
  
 ---
-
 
 ## 🌐 Let's Connect:
 📫 Reach me: surajchaudhary6613@gmail.com  
