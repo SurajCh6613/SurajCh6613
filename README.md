@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 - 👋 Hi, I'm Suraj Chaudhary — a passionate Full-Stack Developer skilled in MERN, Java, and modern web technologies.
 
 🚀 I enjoy building scalable, user-friendly products. My experience includes developing real-time applications, designing efficient backend systems, and crafting responsive UIs using React and Tailwind CSS.
@@ -11,14 +11,11 @@
 - Task Manager App (MERN)
 
 ⚡ Interests: Full-stack development, Frontend Development, API engineering, and building scalable products.
-
 ---
-
 ## 🌐 Let's Connect:
 📫 Reach me: surajchaudhary6613@gmail.com  
 🌐 Portfolio: https://surajch6613.vercel.app/
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Surajch6613/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surajch6613)
+🌐 LinkedIn: https://www.linkedin.com/in/surajch6613/
 
 ---
 
